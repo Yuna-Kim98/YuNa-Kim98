@@ -111,8 +111,11 @@
          <li>결제 시 카카오페이 결제 진행 (카카오API)</li>
        </ul>
      </li>
+     <li>
+       시연 영상(이미지 클릭 시 유튜브로 이동합니다)
+       <a href="https://yuna-kim98.github.io/react-sample-1"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
+     </li>
    </ul>
-   <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
  </details>
  
 </br>
