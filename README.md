@@ -51,6 +51,6 @@
 <div>
 
 ![js](https://img.shields.io/badge/any_text-you_like-blue)
-<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/any_text-Portfolio)</a>
+<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/Portfolio-blue)</a>
   
 </div>
