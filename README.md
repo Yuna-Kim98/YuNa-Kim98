@@ -47,6 +47,9 @@
 </div>
 
 <div align=center>
+ <details>
+   <summary>더보기</summary>
+ </details>
 
  <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)</a></br>
  <a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/Project_1-조선미녀_Demo_Video-1bbeef?style=for-the-badge)</a></br>
