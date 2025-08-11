@@ -77,7 +77,7 @@
     Link
   </h3>
 
-<a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Notion-b9e5f9?style=for-the-badge)</a>
+<a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Notion-b9e5f9?style=for-the-badge&logo=notion&logoColor=white)</a>
 </div>
 
 </br>
