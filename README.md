@@ -58,8 +58,9 @@
    <ul>
      <li>프로젝트명 : 포트폴리오 클론 코딩</li>
      <li>HTML, CSS, JavaScript, React 사용</li>
-     <img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" />
+     <li>링크 : <a>https://yuna-kim98.github.io/react-sample-1/</a></li>
    </ul>
+   <img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" />
  </details>
  
 </br>
