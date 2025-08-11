@@ -48,9 +48,9 @@
   </h3>
 </div>
 
-<div>
+<div align=center>
 
 ![js](https://img.shields.io/badge/any_text-you_like-blue)
-<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/Portfolio-blue)</a>
+<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)</a>
   
 </div>
