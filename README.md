@@ -73,12 +73,11 @@
   ![js](https://img.shields.io/badge/Project_1-조선미녀_Demo_Video-1bbeef?style=for-the-badge)
      
    </summary>
-   <p>개요</p>
    <ul>
-     <li>프로젝트명 : 조선미녀 벤치마킹</li>
-     <li>수행기간 : 2025. 03. 10 ~ 2025. 04. 04 (약 4주)</li>
-     <li>목표 : HTML/CSS, JavaScript, React, Axios를 사용하여 기존 쇼핑몰 사이트의 핵심 기능을 재현하고, 토글 메뉴창, 장바구니 아이템 삭제 및 수량 조절 등 사용 중 개선이 필요한 부분을 식별하여 효율성과 사용자 경험을 개선하는 웹 서비스 구축</li>
-     <li>설계/프로세스 : HTML, CSS, JavaScript, React 사용하였습니다.
+     <li><b>프로젝트명</b> : 조선미녀 벤치마킹</li>
+     <li><b>수행기간</b> : 2025. 03. 10 ~ 2025. 04. 04 (약 4주)</li>
+     <li><b>목표</b> : HTML/CSS, JavaScript, React, Axios를 사용하여 기존 쇼핑몰 사이트의 핵심 기능을 재현하고, 토글 메뉴창, 장바구니 아이템 삭제 및 수량 조절 등 사용 중 개선이 필요한 부분을 식별하여 효율성과 사용자 경험을 개선하는 웹 서비스 구축</li>
+     <li><b>설계/프로세스</b> : HTML, CSS, JavaScript, React 사용하였습니다.
        <ul>
          <li>웹개발 : HTML, CSS, SCSS, React, Node.js(Express)</li>
          <li>프로그래밍 언어 : Javascript</li>
