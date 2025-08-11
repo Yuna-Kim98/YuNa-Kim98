@@ -69,7 +69,7 @@
 <div align=center>
    <h3>🔗Link</h3>
 
- <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Notion-384f7a?style=for-the-badge&logo=notion&logoColor=white)</a>
+ <a href='https://www.notion.so/Front-End-Study-11efb98e736680acaca3f1114bbcce70'>![js](https://img.shields.io/badge/Notion-384f7a?style=for-the-badge&logo=notion&logoColor=white)</a>
 </div>
 
 </br>
