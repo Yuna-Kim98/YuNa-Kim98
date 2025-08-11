@@ -55,6 +55,13 @@
      <li>기존의 포트폴리오 페이지를 클론 코딩한 프로젝트입니다.</li>
      <li>HTML, CSS, JavaScript, React 사용하였습니다.</li>
      <li>이미지 클릭 시 페이지로 이동합니다.</li>
+
+     <li><b>프로젝트명</b> : 포트폴리오 페이지 클론 코</li>
+     <li><b>수행기간</b> : 2024. 12. 19 ~ 2024. 12. 24 (약 4주)</li>
+     <li><b>목표</b> : HTML/CSS, JavaScript, React를 사용하여 기존 포트폴리오 페이지를 클론 코딩을 통해 반복 학습, 깃허브를 통해 배포 경험</li>
+     <li><b>설계/프로세스 : HTML, CSS React</li>
+       </ul> 
+     </li>
    </ul>
    <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
  </details>
@@ -103,6 +110,7 @@
          <li>결제 시 카카오페이 결제 진행 (카카오API)</li>
        </ul>
      </li>
+     <li><b>상세내용</b> : <a href="https://github.com/Yuna-Kim98/beautyofjoseon">클릭 시 해당 프로젝트 깃허브 페이지로 이동합니다.</a></li>
      <li>
        <b>시연 영상</b>(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=KgK-92H-4kg"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
@@ -161,6 +169,7 @@
          <li>좌석 선택 후 [신청하기] 또는 [나중에 선택] 버튼 클릭 시 결제 페이지로 이동</li>
        </ul>
      </li>
+     <li><b>상세내용</b> : <a href="https://github.com/Yuna-Kim98/jinAir">클릭 시 해당 프로젝트 깃허브 페이지로 이동합니다.</a></li>
      <li>
        <b>시연 영상</b>(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=fy4xuwWGOhA"><img width="521" height="292" alt="Image" src="https://github.com/user-attachments/assets/47aa6e97-897d-4ea0-a5c0-ced1c083c844" /></a>
