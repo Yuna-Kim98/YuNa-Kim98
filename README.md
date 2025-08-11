@@ -10,7 +10,7 @@
 <div align=center>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />About Me</h3>
     
-![js](https://img.shields.io/badge/FrontEnd-b9e5f9?style=for-the-badge&logoColor=white)
+![js](https://img.shields.io/badge/FrontEnd-b9e5f9?style=for-the-badge&color=white)
   <p>사용자 중심의 UI/UX를 고려한 반응형 웹 개발에 익숙하며, React를 활용한 컴포넌트 기반 설계과 상태 관리에 능숙합니다. Redux를 통해 전역 상태를 효율적으로 관리합니다.</p>
   </br>
   
