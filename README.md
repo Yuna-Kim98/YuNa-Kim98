@@ -5,7 +5,7 @@
 <div align=center>
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
-    끊임없이 성장하는 주니어 프론트엔드 개발자, 김유나입니다🤗
+    Hello, Im YuNa!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
   </h3>
 </div>
