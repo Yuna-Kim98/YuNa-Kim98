@@ -51,5 +51,6 @@
 <div align=center>
 
 <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/site_Portfolio-blue?style=for-the-badge)</a>
+<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/BeatyOfJoseon%20Demo%20Video-blue?style=for-the-badge)</a>
   
 </div>
