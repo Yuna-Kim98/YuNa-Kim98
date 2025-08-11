@@ -51,7 +51,7 @@
 <div align=center>
 
 <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-blue?style=for-the-badge)</a>
-<a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/#1Project-Demo_Video-blue?style=for-the-badge)</a>
+<a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/Project_1-Demo_Video-blue?style=for-the-badge)</a>
 <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/JinAir%20Demo%20Video-blue?style=for-the-badge)</a>
   
 </div>
