@@ -67,10 +67,11 @@
    </ul>
    <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
  </details>
+ 
  <details>
    <summary>
      
-  ![js](https://img.shields.io/badge/Project_1-조선미녀_Demo_Video-1bbeef?style=for-the-badge)
+  ![js](https://img.shields.io/badge/Project_1-조선미녀-1bbeef?style=for-the-badge)
      
    </summary>
    <ul>
@@ -113,7 +114,65 @@
      </li>
      <li>
        시연 영상(이미지 클릭 시 유튜브로 이동합니다)
-       <a href="https://yuna-kim98.github.io/react-sample-1"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
+       <a href="https://www.youtube.com/watch?v=KgK-92H-4kg"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
+     </li>
+   </ul>
+ </details>
+
+ <details align=center>
+   <summary>
+     
+  ![js](https://img.shields.io/badge/Project_2-JinAir-1bbeef?style=for-the-badge)
+     
+   </summary>
+   <ul align=left>
+     <li><b>프로젝트명</b> : JinAir 벤치마킹</li>
+     <li><b>수행기간</b> : 2025. 03. 24 ~ 2025. 04. 28 (약 4주)</li>
+     <li><b>목표</b>
+      <ul>
+        <li>HTML/CSS, JavaScript, React, Node.js(Express), MySQL, Axios를 활용한 개발</li>
+        <li>항공 예매 사이트의 날짜 선택용 캘린더, 좌석 선택 시각화, 항공편 최저가 시각화 차트, 관리자용 항공편 등록 시스템 등을 구현하여 사용자 및 운영자의 편의성 강화</li>
+      </ul>
+     </li>
+     <li><b>설계/프로세스</b>
+       <ul>
+         <li>웹개발 : HTML, CSS, SCSS, React, Redux, Node.js(Express)</li>
+         <li>프로그래밍 언어 : Javascript</li>
+         <li>API 통신 라이브러리 : Axios</li>
+         <li>버전관리 : Git</li>
+       </ul> 
+     </li>
+     <li><b>담당역할</b> : 항공권 예약 페이지 구현(항공권 선택, 탑승객 정보 입력, 좌석 선택 기능 등)</li>
+     <li>
+       <b>항공권 선택 페이지</b>
+       <ul>
+         <li>메인 페이지 항공권 조회 버튼 클릭 시 항공편 선택 페이지로 이동</li>
+         <li>해당 일자의 항공권 정보 및 리스트 노출</li>
+         <li>항공 일자 목록 좌우 방향 버튼 클릭 시 선택된 날짜 기준 일주일 전 후로 이동</li>
+         <li>선택한 일자에 운항 정보 없을 시 알림창 노출</li>
+         <li>항공편 미선택 상태일 때 [오는 편 선택] 또는 [탑승객 정보 입력] 버튼 클릭 시 유효성 체크 알림창 노출</li>
+         <li>항공편 선택 시 [오는 편 선택] 또는 [탑승객 정보 입력] 버튼 활성화</li>
+       </ul>
+     </li>
+     <li>
+       <b>탑승객 정보 입력 페이지(탑승객 유형별 정보 입력폼)</b>
+       <ul>
+         <li>항공권 조회 시 선택한 탑승객 인원 수/유형별 정보 폼 생성</li>
+         <li>탑승객 정보 없이 [다음 단계] 버튼 클릭 시 유효성 체크 진행</li>
+       </ul>
+     </li>
+     <li>
+       <b>좌석 선택 페이지</b>
+       <ul>
+         <li>항공편 선택 페이지에서 베이직/프리미엄 선택에 따라 좌석 선택 페이지 다르게 노출</li>
+         <li>페이지 좌측에 탑승자와 선택한 좌석 정보 노출</li>
+         <li>좌석 미선택, 선택 불가능 좌석 선택, 예매 매수 초과 시 알림창 노출</li>
+         <li>좌석 선택 후 [신청하기] 또는 [나중에 선택] 버튼 클릭 시 결제 페이지로 이동</li>
+       </ul>
+     </li>
+     <li>
+       시연 영상(이미지 클릭 시 유튜브로 이동합니다)
+       <a href="https://www.youtube.com/watch?v=fy4xuwWGOhA"><img width="521" height="292" alt="Image" src="https://github.com/user-attachments/assets/47aa6e97-897d-4ea0-a5c0-ced1c083c844" /></a>
      </li>
    </ul>
  </details>
