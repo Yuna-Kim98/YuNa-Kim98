@@ -68,13 +68,13 @@
    <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
  </details>
  
- <details>
+ <details align=center>
    <summary>
      
   ![js](https://img.shields.io/badge/Project_1-조선미녀-1bbeef?style=for-the-badge)
      
    </summary>
-   <ul>
+   <ul align=left>
      <li><b>프로젝트명</b> : 조선미녀 벤치마킹</li>
      <li><b>수행기간</b> : 2025. 03. 10 ~ 2025. 04. 04 (약 4주)</li>
      <li><b>목표</b> : HTML/CSS, JavaScript, React, Axios를 사용하여 기존 쇼핑몰 사이트의 핵심 기능을 재현하고, 토글 메뉴창, 장바구니 아이템 삭제 및 수량 조절 등 사용 중 개선이 필요한 부분을 식별하여 효율성과 사용자 경험을 개선하는 웹 서비스 구축</li>
@@ -113,7 +113,7 @@
        </ul>
      </li>
      <li>
-       시연 영상(이미지 클릭 시 유튜브로 이동합니다)
+       시연 영상(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=KgK-92H-4kg"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
      </li>
    </ul>
@@ -171,7 +171,7 @@
        </ul>
      </li>
      <li>
-       시연 영상(이미지 클릭 시 유튜브로 이동합니다)
+       시연 영상(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=fy4xuwWGOhA"><img width="521" height="292" alt="Image" src="https://github.com/user-attachments/assets/47aa6e97-897d-4ea0-a5c0-ced1c083c844" /></a>
      </li>
    </ul>
