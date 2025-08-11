@@ -54,7 +54,7 @@
   
 </div>
 <details>
-   <summary>#1 Clone Coding :: Portfolio</summary>
+   <summary><b>#1 Clone Coding :: Portfolio</b></summary>
    <ul>
      <li>프로젝트명 : 포트폴리오 클론 코딩</li>
      <li>HTML, CSS, JavaScript, React 사용</li>
