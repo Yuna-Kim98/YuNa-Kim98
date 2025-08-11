@@ -12,6 +12,7 @@
   <h3>🖥️About Me</h3>
 
 ![js](https://img.shields.io/badge/계속해서_성장하는_개발자-b9e5f9?style=for-the-badge&logoColor=white)
+<h4>계속해서 성장하는 개발자</h4>
   <p>새로운 언어와 프레임워크를 두려워하지 않고 적극적으로 학습합니다. 꾸준한 자기계발을 통해 최신 기술을 빠르게 습득하고, 효율적이고 안정적인 코드 작성에 집중합니다.</p>
   </br>
     
