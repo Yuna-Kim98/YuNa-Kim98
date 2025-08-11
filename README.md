@@ -51,7 +51,6 @@
   ![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)
      
    </summary>
-   <p>개요</p>
    <ul align=left>
      <li>기존의 포트폴리오 페이지를 클론 코딩한 프로젝트입니다.</li>
      <li>HTML, CSS, JavaScript, React 사용하였습니다.</li>
