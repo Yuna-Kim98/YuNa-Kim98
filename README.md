@@ -48,7 +48,12 @@
 
 <div align=center>
  <details>
-   <summary>더보기</summary>
+   <summary>#1 Clone Coding :: Portfolio</summary>
+   <ul>
+     <li>프로젝트명 : 포트폴리오 클론 코딩</li>
+     <li>HTML, CSS, JavaScript, React 사용</li>
+     <img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" />
+   </ul>
  </details>
 
  <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)</a></br>
