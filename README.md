@@ -45,22 +45,14 @@
 <div align=center>
    <h3>👩‍🔧Works</h3>
 </div>
-
-<div align=center>
-  
- <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)</a></br>
- <a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/Project_1-조선미녀_Demo_Video-1bbeef?style=for-the-badge)</a></br>
- <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Project_2-JinAir_Demo_Video-01aae2?style=for-the-badge)</a>
-  
-</div>
-<details>
+<details align=center>
    <summary>
 
   ![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)
      
    </summary>
    <p>개요</p>
-   <ul>
+   <ul align=left>
      <li>기존의 포트폴리오 페이지를 클론 코딩한 프로젝트입니다.</li>
      <li>HTML, CSS, JavaScript, React 사용하였습니다.</li>
      <li>이미지 클릭 시 페이지로 이동합니다.</li>
@@ -113,7 +105,7 @@
        </ul>
      </li>
      <li>
-       시연 영상(이미지 클릭 시 유튜브로 이동합니다)</br>
+       <b>시연 영상</b>(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=KgK-92H-4kg"><img width="765" height="424" alt="Image" src="https://github.com/user-attachments/assets/d574578a-67d1-46fd-86ca-b5ab68e64060" /></a>
      </li>
    </ul>
@@ -171,7 +163,7 @@
        </ul>
      </li>
      <li>
-       시연 영상(이미지 클릭 시 유튜브로 이동합니다)</br>
+       <b>시연 영상</b>(이미지 클릭 시 유튜브로 이동합니다)</br>
        <a href="https://www.youtube.com/watch?v=fy4xuwWGOhA"><img width="521" height="292" alt="Image" src="https://github.com/user-attachments/assets/47aa6e97-897d-4ea0-a5c0-ced1c083c844" /></a>
      </li>
    </ul>
