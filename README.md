@@ -54,7 +54,11 @@
   
 </div>
 <details>
-   <summary><b>#1 Clone Coding :: Portfolio</b></summary>
+   <summary>
+
+  ![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)
+     
+   </summary>
    <p>개요</p>
    <ul>
      <li>기존의 포트폴리오 페이지를 클론 코딩한 프로젝트입니다.</li>
@@ -66,10 +70,9 @@
  <details>
    <summary>
      
-  ![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)
+  ![js](https://img.shields.io/badge/Project_1-조선미녀_Demo_Video-1bbeef?style=for-the-badge)
      
    </summary>
-   <b>#2 Project :: 조선미녀</b>
    <p>개요</p>
    <ul>
      <li>프로젝트명 : 조선미녀 벤치마킹</li>
