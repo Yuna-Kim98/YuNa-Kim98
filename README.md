@@ -55,9 +55,34 @@
 </div>
 <details>
    <summary><b>#1 Clone Coding :: Portfolio</b></summary>
+   <p>개요</p>
    <ul>
-     <li>프로젝트명 : 포트폴리오 클론 코딩</li>
-     <li>HTML, CSS, JavaScript, React 사용</li>
+     <li>기존의 포트폴리오 페이지를 클론 코딩한 프로젝트입니다.</li>
+     <li>HTML, CSS, JavaScript, React 사용하였습니다.</li>
+     <li>이미지 클릭 시 페이지로 이동합니다.</li>
+   </ul>
+   <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
+ </details>
+ <details>
+   <summary>
+     
+  ![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)
+     
+   </summary>
+   <b>#2 Project :: 조선미녀</b>
+   <p>개요</p>
+   <ul>
+     <li>프로젝트명 : 조선미녀 벤치마킹</li>
+     <li>수행기간 : 2025. 03. 10 ~ 2025. 04. 04 (약 4주)</li>
+     <li>목표 : HTML/CSS, JavaScript, React, Axios를 사용하여 기존 쇼핑몰 사이트의 핵심 기능을 재현하고, 토글 메뉴창, 장바구니 아이템 삭제 및 수량 조절 등 사용 중 개선이 필요한 부분을 식별하여 효율성과 사용자 경험을 개선하는 웹 서비스 구축</li>
+     <li>설계/프로세스 : HTML, CSS, JavaScript, React 사용하였습니다.
+       <ul>
+         <li>웹개발 : HTML, CSS, SCSS, React, Node.js(Express)</li>
+         <li>프로그래밍 언어 : Javascript</li>
+         <li>API 통신 라이브러리 : Axios</li>
+         <li>버전관리 : Git</li>
+       </ul> 
+     </li>
      <li>이미지 클릭 시 페이지로 이동합니다.</li>
    </ul>
    <a href="https://yuna-kim98.github.io/react-sample-1"><img width="947" height="539" alt="Image" src="https://github.com/user-attachments/assets/9a4edf3b-a706-4419-8e6e-c5faa7dd3a59" /></a>
