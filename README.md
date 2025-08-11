@@ -42,5 +42,14 @@
 </br>
 </br>
 <div align=center>
+   <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+    Works
+  </h3>
+</div>
+
+<div>
+
+![js](https://img.shields.io/badge/any_text-you_like-blue)
   
 </div>
