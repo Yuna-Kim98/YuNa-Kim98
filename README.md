@@ -17,21 +17,8 @@
   <h4>🤝협업과 소통을 중시하는 팀 플레이어</h4>
   <p>팀원들과 원활한 소통을 바탕으로 문제를 신속히 파악하고 해결합니다. </br> 코드 리뷰와 주기적인 회의를 통해 개발 품질과 팀워크 향상에 기여합니다.</p>
   </br>
-  
-![js](https://img.shields.io/badge/BackEnd-b9e5f9?style=for-the-badge&logoColor=white)
-  <p>Express 기반의 서버를 구축하여 RESTful API를 설계하고, 클라이언트와의 원활한 통신을 구현합니다.</p>
-  </br>
-  
-![js](https://img.shields.io/badge/Database-b9e5f9?style=for-the-badge&logoColor=white)
-  <p>관계형 데이터베이스 설계 및 CRUD 작업에 익숙하며, 실제 서비스에서 데이터 흐름을 고려한 쿼리 작성이 가능합니다.</p>
-  </br>
-  
-![js](https://img.shields.io/badge/Tools-b9e5f9?style=for-the-badge&logoColor=white)
-  <p>VS Code를 활용한 효율적인 개발 환경을 구성하며, Git을 통한 버전 관리와 협업 경험을 보유하고 있습니다.</p>
-  </br>
 </div>
 </br>
-</hr>
 </br>
 <div align=center>
   <h3>
