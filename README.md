@@ -33,7 +33,12 @@
 ![js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![js](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![js](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 </br>
 </br>
+<div align=center>
+  
+</div>
