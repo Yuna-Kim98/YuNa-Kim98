@@ -54,36 +54,27 @@
 </br>
 </br>
 <div align=center>
-   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
-    Works
-  </h3>
+   <h3>🍀Works</h3>
 </div>
 
 <div align=center>
 
-<a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)</a></br>
-<a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/Project_1-BeautyOfJoseon_Demo_Video-1bbeef?style=for-the-badge)</a></br>
-<a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Project_2-JinAir_Demo_Video-01aae2?style=for-the-badge)</a>
+ <a href='https://yuna-kim98.github.io/react-sample-1/'>![js](https://img.shields.io/badge/clone_Coding-Portfolio-b9e5f9?style=for-the-badge)</a></br>
+ <a href='https://youtu.be/KgK-92H-4kg?si=L75qvgOSr35Opyj3'>![js](https://img.shields.io/badge/Project_1-BeautyOfJoseon_Demo_Video-1bbeef?style=for-the-badge)</a></br>
+ <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Project_2-JinAir_Demo_Video-01aae2?style=for-the-badge)</a>
   
 </div>
 </br>
 </br>
 <div align=center>
-   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
-    Link
-  </h3>
+   <h3>🔗Link</h3>
 
-<a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Notion-384f7a?style=for-the-badge&logo=notion&logoColor=white)</a>
+ <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Notion-384f7a?style=for-the-badge&logo=notion&logoColor=white)</a>
 </div>
 
 </br>
 </br>
 <div align=center>
-   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
-    Contact
-  </h3>
+   <h3>💫Contact</h3>
   <p>✉️dbsk4030@gmail.com</p>
 </div>
