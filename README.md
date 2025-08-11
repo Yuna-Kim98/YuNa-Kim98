@@ -5,11 +5,13 @@
 <div align=center>
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
-    Hello, I'm YuNa!
+    Hello!
+    <span>끊임없이 성장하는 주니어 프론트엔드 개발자, 김유나입니다🤗</span>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
   </h3>
 </div>
 
 <div align=center>
-  <div style="color: white; background-color: 384f7a; width: auto; height: auto;">About Me</div>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />About Me</h3>
+  
 </div>
