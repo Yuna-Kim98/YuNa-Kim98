@@ -66,6 +66,6 @@
 </br>
 </br>
 <div align=center>
-   <h3>💫Contact</h3>
-  <p>✉️<i>dbsk4030@gmail.com</i></p>
+   <h3>✉️Contact</h3>
+  <p>dbsk4030@gmail.com</p>
 </div>
