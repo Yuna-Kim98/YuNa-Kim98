@@ -31,6 +31,7 @@
   </br>
 </div>
 </br>
+</hr>
 </br>
 <div align=center>
   <h3>
