@@ -11,5 +11,5 @@
 </div>
 
 <div align=center>
-  <div color=384f7a>About Me</div>
+  <div style="color: white; background-color: 384f7a; width: auto; height: auto;">About Me</div>
 </div>
