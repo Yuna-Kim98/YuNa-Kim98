@@ -31,7 +31,7 @@
 </br>
 <div align=center>
   <h3>
-    👩‍🔧Stack
+    🍀Stack
   </h3>
 </div>
 <div align=center>
@@ -54,7 +54,7 @@
 </br>
 </br>
 <div align=center>
-   <h3>🍀Works</h3>
+   <h3>👩‍🔧Works</h3>
 </div>
 
 <div align=center>
