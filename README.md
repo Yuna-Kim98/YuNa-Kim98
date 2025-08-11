@@ -4,7 +4,7 @@
     Hello, Im YuNa!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
   </h3>
-  <p>반갑습니다. 끊임없이 성장하는 주니어 프론트엔드 개발자, <b>김유나</b>입니다👩‍💻</p>
+  <p>끊임없이 성장하는 주니어 프론트엔드 개발자, <b>김유나</b>입니다👩‍💻</p>
 </div>
 </br>
 </br>
