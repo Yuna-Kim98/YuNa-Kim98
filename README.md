@@ -10,9 +10,13 @@
 </br>
 <div align=center>
   <h3>🖥️About Me</h3>
+
+![js](https://img.shields.io/badge/계속해서_성장하는_개발자-b9e5f9?style=for-the-badge&logoColor=white)
+  <p>새로운 언어와 프레임워크를 두려워하지 않고 적극적으로 학습합니다. 꾸준한 자기계발을 통해 최신 기술을 빠르게 습득하고, 효율적이고 안정적인 코드 작성에 집중합니다.</p>
+  </br>
     
-![js](https://img.shields.io/badge/FrontEnd-b9e5f9?style=for-the-badge&logoColor=white)
-  <p>사용자 중심의 UI/UX를 고려한 반응형 웹 개발에 익숙하며, React를 활용한 컴포넌트 기반 설계과 상태 관리에 능숙합니다. Redux를 통해 전역 상태를 효율적으로 관리합니다.</p>
+![js](https://img.shields.io/badge/협업과_소통을_중시하는_팀_플레이어-b9e5f9?style=for-the-badge&logoColor=white)
+  <p>팀원들과 원활한 소통을 바탕으로 문제를 신속히 파악하고 해결합니다. 코드 리뷰와 주기적인 회의를 통해 개발 품질과 팀워크 향상에 기여합니다.</p>
   </br>
   
 ![js](https://img.shields.io/badge/BackEnd-b9e5f9?style=for-the-badge&logoColor=white)
