@@ -55,3 +55,12 @@
 <a href='https://www.youtube.com/watch?v=fy4xuwWGOhA'>![js](https://img.shields.io/badge/Project_2-Demo_Video-b9e5f9?style=for-the-badge)</a>
   
 </div>
+</br>
+</br>
+<div align=center>
+   <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+    Contact
+  </h3>
+  <p>✉️dbsk4030@gmail.com</p>
+</div>
