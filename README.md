@@ -131,7 +131,7 @@
      </li>
      <li><b>설계/프로세스</b>
        <ul>
-         <li>웹개발 : HTML, CSS, SCSS, React, Redux, Node.js(Express)</li>
+         <li>웹개발 : HTML, CSS, Sass, React, Redux, Node.js(Express)</li>
          <li>프로그래밍 언어 : Javascript</li>
          <li>API 통신 라이브러리 : Axios</li>
          <li>버전관리 : Git</li>
