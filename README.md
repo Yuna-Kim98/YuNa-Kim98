@@ -74,7 +74,7 @@
      <li><b>목표</b> : HTML/CSS, JavaScript, React, Axios를 사용하여 기존 쇼핑몰 사이트의 핵심 기능을 재현하고, 토글 메뉴창, 장바구니 아이템 삭제 및 수량 조절 등 사용 중 개선이 필요한 부분을 식별하여 효율성과 사용자 경험을 개선하는 웹 서비스 구축</li>
      <li><b>설계/프로세스</b>
        <ul>
-         <li>웹개발 : HTML, CSS, SCSS, React, Node.js(Express)</li>
+         <li>웹개발 : HTML, CSS, Sass, React, Node.js(Express)</li>
          <li>프로그래밍 언어 : Javascript</li>
          <li>API 통신 라이브러리 : Axios</li>
          <li>버전관리 : Git</li>
